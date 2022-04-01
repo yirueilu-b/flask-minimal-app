@@ -2,8 +2,6 @@
 
 ![](https://i.imgur.com/A2NUkdZ.png)
 
-[TOC]
-
 ## Prepare a Flask APP for Heroku
 Assume that there is already a Flask APP, **There have to be 3 important files** in the root directory of your APP:
 > Here is a [minimal Flask APP](https://github.com/yirueilu-b/flask-minimal-app)
